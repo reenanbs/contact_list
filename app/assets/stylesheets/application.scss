@@ -135,6 +135,17 @@ footer {
   text-align: center;
 }
 
+/* -- contacts -- */
+#contacts a{
+  color: white;
+  transition-duration: 0.2s;
+}
+
+#contacts a:hover{
+  text-decoration: none;
+  transition-duration: 0.2s;
+}
+
 /* -- card style for bootstrap  -- */
 
 .card{ background-color: #fff; border: 1px solid transparent; border-radius: 6px; }
